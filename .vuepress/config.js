@@ -44,6 +44,6 @@ module.exports = {
             }
         ],
         sidebar: 'auto',
-        lastUpdated: 'Last Updated'
+        lastUpdated: '最近更新'
     }
 }
