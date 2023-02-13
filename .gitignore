@@ -105,3 +105,13 @@ dist
 
 .idea
 .idea/
+
+node_modules/
+theme-docs/.vuepress/.cache/
+theme-docs/.vuepress/.temp/
+theme-docs/.vuepress/dist/
+
+node_modules/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
