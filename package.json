@@ -1,0 +1,28 @@
+{
+  "name": "geeksman-blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:update-package": "npx vp-update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/jonathanluo0604/geeksman-blogs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.60",
+    "vue": "^3.2.47",
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-plugin-search-pro": "^2.0.0-beta.174",
+    "vuepress-theme-hope": "2.0.0-beta.173"
+  }
+}
