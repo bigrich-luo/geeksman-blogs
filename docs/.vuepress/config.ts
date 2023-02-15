@@ -3,7 +3,7 @@ import {searchProPlugin} from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-    base: "/",
+    base: "/geeksman-blogs/",
     // 单语言
     lang: "zh-CN",
 
