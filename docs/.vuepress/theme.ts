@@ -119,6 +119,9 @@ export default hopeTheme({
         // 博客组件
         // blog: true,
 
+        // 图片预览
+        photoSwipe: true,
+
         // Disable features you don’t want here
         mdEnhance: {
             align: true,
