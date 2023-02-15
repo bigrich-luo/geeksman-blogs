@@ -3,6 +3,7 @@ import {searchProPlugin} from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
+    // 对应的仓库名路径
     base: "/geeksman-blogs/",
     // 单语言
     lang: "zh-CN",
