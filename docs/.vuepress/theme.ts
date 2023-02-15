@@ -24,7 +24,7 @@ export default hopeTheme({
     darkmode: "toggle",
 
     // 页脚支持
-    footer: '<img src="./assets/beian.png" height="15px" width="15px" style="vertical-align: bottom; margin-right: 3px"  alt=""/>' + '<a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2022007338号-1</a>',
+    footer: '<img src="/beian.png" height="15px" width="15px" style="vertical-align: bottom; margin-right: 3px"  alt=""/>' + '<a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2022007338号-1</a>',
     displayFooter: true,
 
     locales: {
