@@ -26,6 +26,7 @@ export default defineUserConfig({
 
     // 插件
     plugins: [
+        // 搜索栏
         searchProPlugin({
             // 索引全部内容
             indexContent: true,
