@@ -1,5 +1,6 @@
 import {defineUserConfig} from "vuepress";
-import {searchProPlugin} from "vuepress-plugin-search-pro";
+import {searchProPlugin} from "vuepress-plugin-search-pro"
+import {photoSwipe} from "vuepress-theme-hope";
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -43,6 +44,14 @@ export default defineUserConfig({
                 },
             ],
         }),
+
+        // 图片缩放
+        photoSwipe({
+            "/": {
+                // 覆盖分享标签文字
+                share: "分享给伙伴",
+            },
+        })
     ],
 
     theme,
