@@ -28,6 +28,6 @@ export const zhNavbar = navbar([
     //   link: "https://theme-hope.vuejs.press/zh/",
     // },
     {text: "Python", icon: "python", link: "/python/"},
-    {text: "Markdown 神仙教程", icon: "markdown", link: "/markdown"},
+    {text: "Markdown 神仙用法", icon: "markdown", link: "/markdown"},
 
 ]);

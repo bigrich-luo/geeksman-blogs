@@ -10,4 +10,12 @@ export const zhSidebar = sidebar({
             children: "structure",
         },
     ],
+    "/markdown/": [
+        {
+            // icon: "discover",
+            text: "Markdown 的神仙用法",
+            collapsible: true,
+            children: "structure",
+        },
+    ],
 });
