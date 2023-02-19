@@ -1,0 +1,1 @@
+import{_ as e,W as s,X as t,$ as _}from"./framework-0436675f.js";const o={},n=_("p",null,"在了解了",-1),r=[n];function c(a,l){return s(),t("div",null,r)}const m=e(o,[["render",c],["__file","04.markdown-vuepress.html.vue"]]);export{m as default};
