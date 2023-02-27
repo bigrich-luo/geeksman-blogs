@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2de350e2","path":"/nginx/02.nginx-install.html","title":"Nginx 环境安装搭建","lang":"zh-CN","frontmatter":{"title":"Nginx 环境安装搭建","category":["Nginx"],"order":2},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.04,"words":12},"filePathRelative":"nginx/02.nginx-install.md"}');export{e as data};

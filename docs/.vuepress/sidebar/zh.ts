@@ -14,8 +14,23 @@ export const zhSidebar = sidebar({
         {
             // icon: "discover",
             text: "Markdown 的神仙用法",
-            collapsible: true,
+            collapsible: false,
             children: "structure",
         },
     ],
+    // "/nginx/": [
+    //     {
+    //         text: "Nginx 教程",
+    //         collapsible: true,
+    //         children: "structure",
+    //     }
+    // ],
+    // "/vim/": [
+    //     {
+    //         text: "Vim 教程",
+    //         collapsible: true,
+    //         children: "structure",
+    //     }
+    // ],
+
 });

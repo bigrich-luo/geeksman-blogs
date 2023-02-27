@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
     // 对应的仓库名路径
-    base: "/geeksman-blogs/",
+    base: "/",
     // 单语言
     lang: "zh-CN",
 
